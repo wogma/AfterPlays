@@ -1,3 +1,0 @@
-# AfterPlays
-### Hello
-Hi
