@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":772.5,"scrollY":481},
-{"id":2,"expanded":true,"name":"MAP_world","order":2,"parentId":0,"scrollX":1566,"scrollY":924}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":515,"scrollY":320.6666666666667},
+{"id":2,"expanded":true,"name":"MAP_world","order":2,"parentId":0,"scrollX":1251.111111111111,"scrollY":730.6666666666666},
+{"id":3,"expanded":true,"name":"MAP_startVilage","order":3,"parentId":0,"scrollX":1854,"scrollY":1154.3999999999999},
+{"id":4,"expanded":false,"name":"숲 마을","order":4,"parentId":0,"scrollX":989.4,"scrollY":663.6}
 ]
