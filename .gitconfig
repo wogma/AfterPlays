@@ -1,6 +1,0 @@
-[user]
-	email = wogma818@gmail.com
-	name = wogma
-[alias]
-	tree = log --oneline --decorate --all --graph
-
