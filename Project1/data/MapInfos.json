@@ -2,7 +2,14 @@
 null,
 {"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":1028.6666666666667,"scrollY":641.3333333333334},
 {"id":2,"expanded":true,"name":"MAP_world","order":2,"parentId":0,"scrollX":1251.3333333333333,"scrollY":730.6666666666666},
-{"id":3,"expanded":true,"name":"MAP_startVilage","order":3,"parentId":0,"scrollX":1018,"scrollY":1154.6666666666667},
-{"id":4,"expanded":false,"name":"숲 마을","order":4,"parentId":0,"scrollX":1018,"scrollY":717.3333333333334},
-{"id":5,"expanded":false,"name":"중간마을입구","order":5,"parentId":0,"scrollX":1018,"scrollY":665.3333333333334}
+{"id":3,"expanded":true,"name":"MAP_startVilage","order":3,"parentId":0,"scrollX":1018,"scrollY":730.6666666666666},
+{"id":4,"expanded":false,"name":"숲 마을","order":4,"parentId":0,"scrollX":1018,"scrollY":1278.6666666666667},
+{"id":5,"expanded":true,"name":"중간마을입구","order":5,"parentId":0,"scrollX":1028.6666666666667,"scrollY":641.3333333333334},
+{"id":6,"expanded":false,"name":"중간마을3x2","order":7,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":7,"expanded":false,"name":"중간마을2x2","order":6,"parentId":5,"scrollX":1028.6666666666667,"scrollY":641.3333333333334},
+{"id":8,"expanded":false,"name":"중간마을3x3","order":8,"parentId":5,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"MAP009","order":9,"parentId":5,"scrollX":1028.6666666666667,"scrollY":641.3333333333334},
+{"id":10,"expanded":false,"name":"상점가","order":10,"parentId":9,"scrollX":1018,"scrollY":644},
+{"id":11,"expanded":false,"name":"방어구 상점","order":11,"parentId":9,"scrollX":0,"scrollY":0},
+{"id":12,"expanded":false,"name":"저택","order":12,"parentId":9,"scrollX":1018,"scrollY":1278.6666666666667}
 ]
